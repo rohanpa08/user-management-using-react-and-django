@@ -22,7 +22,7 @@ This project demonstrates:
 ### Backend:
 - Django
 - Django REST Framework
-- SQLite (default, easy to switch to PostgreSQL)
+- MYSQL 
 
 ---
 
